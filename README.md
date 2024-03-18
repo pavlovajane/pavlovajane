@@ -19,6 +19,7 @@ I took some significant time in 2023 to do some professional education to enhanc
 I love everything I've done equally but some of them a tad bit more.
 
 **healthcare** domain - I appreciate the impact on our society, and genuine motivation every day. I used to work for one of the biggest US pharma companies as well as healthcare providers. Both projects were challenging and rewarding. The first one was completely from scratch - a web-based laboratory mice production software, and the second - a completely re-engineered APIs ecosystem based on HL7.
+
 **automotive** domain - this is just exciting as I had an opportunity to work on the first-ever Linux-based automotive operating system. I mean - how many engineers do you know who did? The quality assurance, CI/CD automation, and software engineering practices used were top-notch. As tech savvy person, I enjoyed every second of it and learned tons of skills. And we managed to achieve 100% requirements coverage for our first release and all integrated into our CI/CD!
 
 ### 🚀 Technologies and tools 
