@@ -24,7 +24,7 @@ I love everything I've done equally but some of them a tad bit more.
 
 ### 🚀 Technologies and tools 
 
-* **Agile** Scrum Master PSM I🏅, Product Owner PSPO I🏅 certified by [Scrum.org](https://www.scrum.org/), Kanban Systems Design KSM I🏅 by [Kanban University](https://kanban.university/), SAFe Product Owner 🏅 certified by [Scaled Agile](https://scaledagile.com/)
+* **Agile** Scrum Master PSM I, Product Owner PSPO I certified🏅 by [Scrum.org](https://www.scrum.org/), Kanban Systems Design KSM I certified🏅 by [Kanban University](https://kanban.university/), SAFe Product Owner  certified🏅 by [Scaled Agile](https://scaledagile.com/)
 * **Conventional waterfall** BRDs, SRSs, done Gantt diagrams and requirements traceability matrices, been there, done that, and more :D 
 * **Standards and more** HL7, FHIR, OpenAPI 3.0, UML, BPMN, SOLID, DRY, OOP, SDLC, JSON, YAML, XML
 * **Requirements** User Stories, Use Cases, BRD, SRS, DocBook
