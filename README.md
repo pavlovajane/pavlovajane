@@ -2,7 +2,7 @@
 
 ### 👋 Hello folks 
 
-My name is Evgeniia (aka Jane) Pavlova and I'm a Software Requirements Engineer|Technical Business System Analyst. I'm currently located in Northern Virginia (Washington DC - Arlington, VA, I'd consider also relocation to Boston, MA). 
+My name is Evgeniia (aka Jane) Pavlova and I'm a Technical PO|Software Requirements Engineer|Technical Business System Analyst. I'm currently located in Northern Virginia (Washington DC - Arlington, VA, I'd consider also relocation to Boston, MA). 
 
 Now my professional experience spans over a decade (10+ years) and ever since I graduated with an engineering degree, I have bonded with the software development industry. I started as an ERP Software Developer and then transitioned naturally to System Analysis and Product Ownership, trying on different roles and lots of hats. 
 
