@@ -8,7 +8,7 @@ Now my professional experience spans over a decade (10+ years) and ever since I 
 
 ### 🤔 Why?
 
-You are a Product Owner - why have GitHub, you may think. Well, I just love being on the edge of leadership and technology and strive to stay up-to-date with the evolving Tech industry. You need to understand how the product is evolving and where it should go, not just from users' perspective but from your technology stakeholders' (CTO, architects, developers, and all) point of view too! 
+You are a Product Owner - why to have GitHub, you may think. Well, I just love being on the edge of leadership and technology and strive to stay up-to-date with the evolving Tech industry. You need to understand how the product is evolving and where it should go, not just from users' perspective but from your technology stakeholders' (CTO, architects, developers, and all) point of view too! 
 
 ### 🤖 Special features
 
