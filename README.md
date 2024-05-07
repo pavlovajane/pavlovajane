@@ -2,13 +2,13 @@
 
 ### 👋 Hello folks 
 
-My name is Evgeniia (aka Jane) Pavlova and I'm a Technical Product Owner with a development and business system analysis background. I live in Northern Virginia but in general open to relocation in the Autumn of 2024. 
+My name is Evgeniia (aka Jane) Pavlova and I'm a **Technical Product Owner** with a development and business system analysis background. I live in Northern Virginia but in general open to relocation in the Autumn of 2024. 
 
 Now my professional experience spans over a decade (10+ years) and ever since I graduated with an engineering degree, I have bonded with the software development industry. I started as an ERP Software Developer and then transitioned naturally to System Analysis and Product Ownership, trying on different roles and lots of hats. 
 
 ### 🤔 Why?
 
-You are a Product Owner - why to have GitHub, you may think. Well, I just love being on the edge of leadership and technology and strive to stay up-to-date with the evolving Tech industry. You need to understand how the product is evolving and where it should go, not just from users' perspective but from your technology stakeholders' (CTO, architects, developers, and all) point of view too! 
+You are a Product Owner - why to have a GitHub, you may think. Well, I just love being on the edge of leadership and technology and strive to stay up-to-date with the evolving Tech industry. You need to understand how the product is evolving and where it should go, not just from users' perspective but from your technology stakeholders' (CTO, architects, developers, and all) point of view too! 
 
 ### 🤖 Special features
 
@@ -18,7 +18,7 @@ I took some significant time in 2023 to do some professional education to enhanc
 
 ### 😍 My domains and memorable projects/products
 
-I love everything I've done equally but some of them a tad bit more.
+I **love everything** I've done equally but some of them a tad bit more.
 
 **healthcare** domain - I appreciate the impact on our society, and genuine motivation every day. I used to work for one of the biggest US pharma companies as well as healthcare providers. Both projects were challenging and rewarding. The first one was completely from scratch - a web-based laboratory mice production software, and the second - a completely re-engineered API ecosystem based on HL7 FHIR and suitable for EHR exchange (aka HIPAA compliant).
 
