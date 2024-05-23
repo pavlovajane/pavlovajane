@@ -24,6 +24,11 @@ I **love everything** I've done equally but some of them a tad bit more.
 
 **automotive** domain - this is just exciting as I had an opportunity to work on the first-ever Linux-based automotive operating system. I mean - how many engineers do you know who did? The quality assurance, CI/CD automation, and software engineering practices used were top-notch. As tech savvy person, I enjoyed every second of it and learned tons of skills. We managed to achieve 100% requirements coverage for our first release and all were integrated into our CI/CD pipeline (we didn't have the full-blown CD, though, but I'll strive to get there)!
 
+### 🦾 Portfolio / work artifacts
+
+A few examples of product management [artifacts](https://drive.google.com/drive/folders/1glpl_kndFAGcOZvTGa29yjhE8T1FJPr7?usp=sharing) (empaty maps, value proposition canvases, MVP breakdowns into stories, user stories, RICE-scoring, hypothesis backlog etc.). 
+All examples are fictional as per NDAs but very close to actual living artifacts.
+
 ### 🚀 Technologies and tools 
 
 * **Agile** Scrum Master PSM I🏅, Product Owner PSPO I🏅 certified by [Scrum.org](https://www.scrum.org/), Kanban Systems Design KSM I🏅 by [Kanban University](https://kanban.university/), SAFe Product Owner 🏅 certified by [Scaled Agile](https://scaledagile.com/)
@@ -38,10 +43,6 @@ I **love everything** I've done equally but some of them a tad bit more.
 * **Databases** SQL (MS SQL, Postgres, SQLite, MySQL)
 * **Unix** Linux (Ubuntu), Shell 
 * **Tools** Confluence, JIRA, Postman, SwaggerHub, InVision, Balsamiq, Redash, PowerBI 
-
-### 🌱 Currently learning
-
-In the middle of learning some serious AI, started with [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2023). This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation. Also, I'm deepening my knowledge of Java.
 
 ### 📫 You can reach out to me 
 
